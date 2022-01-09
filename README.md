@@ -4,6 +4,8 @@
     </a>
 </div>
 
+UNDER DEVELOPMENT
+
 # CRA-in-TS starter with testing by RTL and MSW
 
 ## Feature tags
