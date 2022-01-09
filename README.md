@@ -24,11 +24,13 @@
 
 ## Direct ancestors
 
-[***- msw, rest, rtl***: cra-typescript-test](https://github.com/softspiders/cra-typescript-test)
+[***- msw, rest, cypress, rtl***: cra-typescript-test](https://github.com/softspiders/cra-typescript-test)
 
 ## Direct descendants
 
 [***+ ts, react-query***: cra_ts_rtl_msw_react-query](https://github.com/AlexanderLapygin/cra_ts_rtl_msw_react-query)
+
+TODO split starter to add starter without cypress and correct hierarchy of starters
 
 ---
 
