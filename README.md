@@ -58,19 +58,19 @@ yarn start
 
 Being in the repository root directory, run:
 
-For unit and e2e testing:
+For unit-testing:
 
 ```sh
 yarn test:unit
 ```
 
-For unit and e2e testing:
+For e2e-testing:
 
 ```sh
 yarn test:e2e
 ```
 
-For unit and e2e testing:
+For unit- and e2e-testing:
 
 ```sh
 yarn test
@@ -79,6 +79,10 @@ yarn test
 ## Authors
 
 [Alexander Lapygin](https://github.com/AlexanderLapygin)
+
+## Inspired by
+
+[rest-react - example from MSW](https://github.com/mswjs/examples/tree/master/examples/rest-react)
 
 ### License
 
