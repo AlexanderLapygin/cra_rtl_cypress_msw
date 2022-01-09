@@ -64,10 +64,6 @@ yarn test
 
 [Alexander Lapygin](https://github.com/AlexanderLapygin)
 
-## Inspired by
-
-[Develop and test React apps with React Query, MSW and React Testing Library (Dennis Kortsch)](https://www.denniskortsch.de/posts/msw-react-testing)
-
 ### License
 
 Licensed under the [MIT license](./LICENSE).
