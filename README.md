@@ -4,14 +4,13 @@
     </a>
 </div>
 
-# CRA-in-TS starter with React Query and testing with RTL and MSW
+# CRA-in-TS starter with testing by RTL and MSW
 
 ## Feature tags
 
 - create-react-app
 - mock-server-worker
 - react
-- react-query
 - react-testing-library
 - rest
 - starter
@@ -23,12 +22,11 @@
 
 ## Direct ancestors
 
-- [***-msw,react-query,rest,rtl***: cra-typescript-test](https://github.com/softspiders/cra-typescript-test)
-- [***-ts***: cra_rtl_msw_react-query](https://github.com/AlexanderLapygin/cra_rtl_msw_react-query)
+[***- msw, rest, rtl***: cra-typescript-test](https://github.com/softspiders/cra-typescript-test)
 
 ## Direct descendants
 
-[***+openapi-backend***: cra_ts_react-query_rtl_msw_openapi-backend](https://github.com/AlexanderLapygin/cra_ts_react-query_rtl_msw_openapi-backend)
+[***+ react-query***: cra_ts_rtl_msw_react-query](https://github.com/AlexanderLapygin/cra_ts_rtl_msw_react-query)
 
 ---
 
