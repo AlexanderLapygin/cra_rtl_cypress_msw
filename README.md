@@ -11,6 +11,7 @@
 - create-react-app
 - cypress
 - e2e
+- javascript
 - mock-server-worker
 - react
 - react-testing-library
@@ -18,7 +19,6 @@
 - starter
 - template
 - testing
-- typescript
 
 ---
 
