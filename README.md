@@ -28,9 +28,7 @@
 
 ## Direct descendants
 
-[***+ ts, react-query***: cra_ts_rtl_msw_react-query](https://github.com/AlexanderLapygin/cra_ts_rtl_msw_react-query)
-
-TODO split starter to add starter without cypress and correct hierarchy of starters
+[***+ auth, offline, search***: cra_cra_auth_search_offline_rtl_cypress_msw_starter](https://github.com/AlexanderLapygin/cra_auth_search_offline_rtl_cypress_msw_starter)
 
 ---
 
