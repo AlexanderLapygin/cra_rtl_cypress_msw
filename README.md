@@ -28,7 +28,7 @@
 
 ## Direct descendants
 
-[***+ auth, ci, db, offline, search***: cra_cra_auth_search_offline_rtl_cypress_msw_starter](https://github.com/AlexanderLapygin/cra_auth_search_offline_rtl_cypress_msw_starter)
+[***+ auth, ci, db, docker-compose, offline, search***: cra_cra_auth_search_offline_rtl_cypress_msw_starter](https://github.com/AlexanderLapygin/cra_auth_search_offline_rtl_cypress_msw_starter)
 
 ---
 
